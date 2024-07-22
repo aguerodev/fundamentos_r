@@ -1,0 +1,54 @@
+---
+title: "Fundamentos de R y RStudio 📊🚀"
+subtitle: "Bases sólidas para comenzar en el mundo de la ciencia de datos"
+lang: "es"
+toc: true
+comments: false
+author: ""
+---
+
+Estamos emocionados de acompañarte en este viaje hacia el dominio de R y el fascinante mundo de la ciencia de datos. Este curso ha sido diseñado pensando en ti, sin importar si eres un principiante absoluto o si ya tienes algunas nociones básicas de programación. A lo largo de las próximas 6 semanas, te sumergirás en el universo de R y el tidyverse, descubriendo cómo estas poderosas herramientas pueden transformar la manera en que analizas y visualizas datos.
+
+### Al finalizar este curso, serás capaz de
+
++ Configurar y utilizar eficientemente RStudio como tu entorno de desarrollo integrado (IDE) para R.
+
++ Leer y manipular datos desde diferentes fuentes, incluyendo archivos CSV y Excel.
+
++ Aplicar las funciones principales del tidyverse para transformar y limpiar conjuntos de datos.
+
++ Crear visualizaciones atractivas y informativas utilizando ggplot2.
+
++ Desarrollar habilidades en la limpieza y preparación de datos para el análisis.
+
++ Generar informes dinámicos y profesionales con Quarto, combinando código, visualizaciones y narrativa.
+
++ Aplicar un flujo de trabajo completo de ciencia de datos, desde la importación de datos hasta la presentación de resultados.
+
++ Utilizar R para responder preguntas de negocio basadas en datos reales.
+
+Prepárate para un viaje emocionante y desafiante que no solo ampliará tus habilidades técnicas, sino que también te abrirá nuevas oportunidades en el campo de la ciencia de datos. ¡Estamos ansiosos por ver todo lo que lograrás en las próximas semanas!
+
+## Sobre el Instructor
+<style>
+.add-space {
+  padding-right: 1%;
+}
+</style>
+
+:::: {.columns}
+
+::: {.column width="20%" .add-space}
+![](me.png){width=100%}
+:::
+
+::: {.column width="70%"}
+
+  👋 Hola, soy [Carlos Aguero](www.linkedin.com/in/carlos-aguero-cr). Soy ingeniero en sistemas de información y, desde 2016, me dedico a enseñar a personas de todas las áreas y niveles de formación a programar en R.
+
+📚 Formo parte del listado de [instructores certificados por RStudio](https://education.rstudio.com/trainers/), enfocándome en **Tidyverse** y **Shiny**. En diciembre de 2023, tuve el gusto de unirme a los instructores de la organización [Software Carpentry](https://www.software-carpentry.org).
+:::
+
+::::
+
+Creo que cualquiera puede dominar R con la guía adecuada. Mi compromiso es que cada concepto y ejercicio sean accesibles, comprensibles y estar para aclarar tus dudas. Quiero encender tu pasión por los datos. Juntos, descubriremos el enorme potencial que puedes desbloquear al combinar tu talento y formación con la capacidad de analizar datos 📊📚.
