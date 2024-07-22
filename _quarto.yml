@@ -34,22 +34,7 @@ website:
             - text: "Instalación y configuración"
               href: clases/instalacion_configuracion.qmd
         - text: "---"
-        - section: "Semana 1"
-          contents:
-          - text: "Conociendo RStudio"
-            href: clases/semana_1/01_conociendo_rstudio.qmd
-          - text: "Sintaxis básica"
-            href: clases/semana_1/02_sintaxis_basica.qmd
-          - text: "Paquetes 📦"
-            href: clases/semana_1/instalacion_paquetes.qmd
-          - text: "Introducción a Tidyverse"
-            href: clases/semana_1/instalacion_configuracion.qmd
-          - text: "Lectura de datos"
-            href: clases/semana_1/instalacion_configuracion.qmd
-          - text: "Filtar, Seleccioanar y Ordenar️"
-            href: clases/semana_1/instalacion_configuracion.qmd
-          - text: "Gráficos con ggplot2"
-            href: clases/semana_1/instalacion_configuracion.qmd
+        
         
 
 author:
