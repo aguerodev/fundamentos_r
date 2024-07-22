@@ -33,8 +33,7 @@ website:
               href: codigo_conducta.qmd
             - text: "Instalación y configuración"
               href: clases/instalacion_configuracion.qmd
-        - text: "---"
-        
+
         
 
 author:
