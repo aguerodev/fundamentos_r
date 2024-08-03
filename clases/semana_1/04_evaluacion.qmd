@@ -1,0 +1,23 @@
+---
+title: "Evaluación y práctica"
+subtitle: ""
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+author: ""
+affiliation: ""
+---
+
+<div style="margin-top: 20px;">
+<p>Es tiempo de aplicar lo aprendido mediante nuestra metodología, inspirada en el libro <em>Teaching Tech Together</em>. En estas sesiones de Zoom, usted no solo practicará el contenido de la semana, sino que también observará cómo otros abordan los problemas de programación en escenarios reales.</p>
+<p>Este enfoque promueve un aprendizaje al permitirle experimentar directamente las estrategias y decisiones que otros programadores utilizan en su trabajo diario. Además, recibirán retroalimentación instantánea, ajustada a sus necesidades específicas.</p>
+<p>Para obtener su certificado, es necesario que programe y participe en al menos <strong>tres sesiones de práctica</strong>. Estas son fundamentales para desarrollar las competencias requeridas en el ámbito profesional.</p>
+
+<img src="img01.jpg" alt="Imagen relacionada con el evento" style="width: 80%; height: auto; margin-top: 20px;">
+
+<p>Encuentre el horario que mejor se ajuste a su disponibilidad en el calendario a continuación:</p>
+<a href="https://cal.com/aprendetidyverse/sesiones-1-1-con-el-instructor" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Programar Sesión de Práctica</a>
+
+</div>

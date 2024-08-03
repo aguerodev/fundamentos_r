@@ -33,6 +33,15 @@ website:
               href: codigo_conducta.qmd
             - text: "Instalación y configuración"
               href: clases/instalacion_configuracion.qmd
+        - text: "---"
+        - section: "Semana 1"
+          contents:
+          - text: "Sesión de Zoom"
+            href: clases/semana_1/00_zoom.qmd
+          - text: "PDF Presentación"
+            href: clases/semana_1/02_presentacion_clase_1.qmd
+          - text: "Evaluación"
+            href: clases/semana_1/04_evaluacion.qmd
 
         
 

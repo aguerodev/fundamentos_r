@@ -783,5 +783,96 @@
       "Semana 1",
       "Conociendo RStudio"
     ]
+  },
+  {
+    "objectID": "clases/semana_1/02_presentacion_clase_1.html#historia-rápida-de-r-y-rstudio",
+    "href": "clases/semana_1/02_presentacion_clase_1.html#historia-rápida-de-r-y-rstudio",
+    "title": "Sintáxis básica de R",
+    "section": "Historia rápida de R y Rstudio",
+    "text": "Historia rápida de R y Rstudio\nR es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell (Ihaka y Gentleman 1996).\nEn 2000, se lanzó la versión 1.0 de R (R Core Team 2008). Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.\nRStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 (Allaire 2011). RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.\nEn los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común (Wickham et al. 2019).\nEste enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.\nPara comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del “Tidyverse design guide” (Wickham 2019). Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "PDF Presentación"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_bibliografia.html#ejecutar-código",
+    "href": "clases/semana_1/01_bibliografia.html#ejecutar-código",
+    "title": "Conociendo Rstudio",
+    "section": "Ejecutar código",
+    "text": "Ejecutar código\n\nPress Ctrl + Enter or ⌘ + Enter to execute the command.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Bibliografia"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/00_zoom.html#ejecutar-código",
+    "href": "clases/semana_1/00_zoom.html#ejecutar-código",
+    "title": "Conociendo Rstudio",
+    "section": "Ejecutar código",
+    "text": "Ejecutar código\n\nPress Ctrl + Enter or ⌘ + Enter to execute the command.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Sesión de Zoom"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/04_evaluacion.html#ejecutar-código",
+    "href": "clases/semana_1/04_evaluacion.html#ejecutar-código",
+    "title": "Conociendo Rstudio",
+    "section": "Ejecutar código",
+    "text": "Ejecutar código\n\nPress Ctrl + Enter or ⌘ + Enter to execute the command.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Evaluación"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/03_ejercicios.html#ejecutar-código",
+    "href": "clases/semana_1/03_ejercicios.html#ejecutar-código",
+    "title": "Conociendo Rstudio",
+    "section": "Ejecutar código",
+    "text": "Ejecutar código\n\nPress Ctrl + Enter or ⌘ + Enter to execute the command."
+  },
+  {
+    "objectID": "clases/semana_1/00_zoom.html",
+    "href": "clases/semana_1/00_zoom.html",
+    "title": "Clase en Vivo: Semana 1",
+    "section": "",
+    "text": "¡Bienvenido al curso! Antes de unirte a nuestra próxima clase, es esencial que leas y comprendas nuestro Código de Conducta, que ayuda a garantizar un ambiente de aprendizaje seguro y respetuoso para todos. Aquí destacamos tres puntos clave:\n\nRespeto: Todos los participantes deben tratar a los demás con respeto, independientemente de su raza, género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión.\nProfesionalismo: Se espera que todas las interacciones dentro del curso se realicen de manera profesional, sin lenguaje o imágenes inapropiados.\nReporte de incidentes: Si presencias o experimentas cualquier tipo de comportamiento que contravenga nuestro código de conducta, es importante que lo reportes inmediatamente a los organizadores del curso.\n\nUnirse a la Clase en Zoom\n\n\nGrabación de la Clase\n\n\nLa grabación de la clase estará disponible aquí 24 horas después de que termine la sesión.\n\n\n\n\n\n\nReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright Aprende Tidyverse. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Sesión de Zoom"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/02_presentacion_clase_1.html",
+    "href": "clases/semana_1/02_presentacion_clase_1.html",
+    "title": "Descarga de Materiales de la Clase",
+    "section": "",
+    "text": "Libros Mencionados en Clase\n\n\nPuede descargar el libro “R for Data Science” de Hadley Wickham desde el siguiente enlace:\n\nVer Libro Online\n\nPresentación y Datos Utilizados\n\n\nLa presentación utilizada en clase y el conjunto de datos pelis_1937_2023.csv están disponibles para descargar desde el siguiente enlace:\n\nDescargar Presentación y Datos\n\nCódigo Generado en Clase\n\n\nEl código generado durante la clase estará disponible aquí 24 horas después de que termine la sesión. Por ahora, no disponible.\n\n\nDescargar Código\n\n\n\n\n\nReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright Aprende Tidyverse. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "PDF Presentación"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/04_evaluacion.html",
+    "href": "clases/semana_1/04_evaluacion.html",
+    "title": "Evaluación y práctica",
+    "section": "",
+    "text": "Es tiempo de aplicar lo aprendido mediante nuestra metodología, inspirada en el libro Teaching Tech Together. En estas sesiones de Zoom, usted no solo practicará el contenido de la semana, sino que también observará cómo otros abordan los problemas de programación en escenarios reales.\n\n\nEste enfoque promueve un aprendizaje al permitirle experimentar directamente las estrategias y decisiones que otros programadores utilizan en su trabajo diario. Además, recibirán retroalimentación instantánea, ajustada a sus necesidades específicas.\n\n\nPara obtener su certificado, es necesario que programe y participe en al menos tres sesiones de práctica. Estas son fundamentales para desarrollar las competencias requeridas en el ámbito profesional.\n\n\n\nEncuentre el horario que mejor se ajuste a su disponibilidad en el calendario a continuación:\n\nProgramar Sesión de Práctica\n\n\n\n\nReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright Aprende Tidyverse. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Evaluación"
+    ]
   }
 ]
