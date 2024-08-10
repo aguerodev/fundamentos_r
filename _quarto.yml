@@ -42,6 +42,15 @@ website:
             href: clases/semana_1/02_presentacion_clase_1.qmd
           - text: "Evaluación"
             href: clases/semana_1/04_evaluacion.qmd
+        - text: "---"
+        - section: "Semana 2"
+          contents:
+          - text: "Sesión de Zoom"
+            href: clases/semana_1/00_zoom.qmd
+          - text: "PDF Presentación"
+            href: clases/semana_2/02_presentacion_clase_1.qmd
+          - text: "Evaluación"
+            href: clases/semana_1/04_evaluacion.qmd
 
         
 
