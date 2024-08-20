@@ -1,0 +1,25 @@
+---
+title: "Clase en Vivo: Semana 3"
+subtitle: ""
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+author: ""
+affiliation: ""
+---
+
+¡Bienvenido al curso! Antes de unirte a nuestra próxima clase, es esencial que leas y comprendas nuestro <a href="https://aprendetidyverse.com/fundamentos_r/codigo_conducta.html">Código de Conducta</a>, que ayuda a garantizar un ambiente de aprendizaje seguro y respetuoso para todos. Aquí destacamos tres puntos clave:
+
+1. <strong>Respeto</strong>: Todos los participantes deben tratar a los demás con respeto, independientemente de su raza, género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión.
+2. <strong>Profesionalismo</strong>: Se espera que todas las interacciones dentro del curso se realicen de manera profesional, sin lenguaje o imágenes inapropiados.
+3. <strong>Reporte de incidentes</strong>: Si presencias o experimentas cualquier tipo de comportamiento que contravenga nuestro código de conducta, es importante que lo reportes inmediatamente a los organizadores del curso.
+
+<a href="https://bit.ly/3LRxwps" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Unirse a la Clase en Zoom</a>
+
+<div style="margin-top: 20px;">
+<h3>Grabación de la Clase</h3>
+<p>La grabación de la clase estará disponible aquí 24 horas después de que termine la sesión.</p>
+<a href="https://us06web.zoom.us/rec/share/lncrnkAcdwXmJIPGb9j9S30gxyjl6wR7k97mfrwbxV2_JdLFjNUbrfL-tJBjw0-3.9wK3G-Cr4MV2Q2z-" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Grabación de la clase</a>
+</div>

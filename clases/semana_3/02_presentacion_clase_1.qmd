@@ -1,0 +1,29 @@
+---
+title: "Descarga de Materiales de la Clase"
+subtitle: ""
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+author: ""
+affiliation: ""
+---
+
+<div style="margin-top: 20px;">
+<h4>Libros Mencionados en Clase</h4>
+<p>Puede descargar el libro "R for Data Science" de Hadley Wickham desde el siguiente enlace:</p>
+<a href="https://r4ds.hadley.nz" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Ver Libro Online</a>
+
+<p>También puede consultar el libro "ggplot2: Elegant Graphics for Data Analysis" de Hadley Wickham en el siguiente enlace:</p>
+<a href="https://ggplot2-book.org/" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Ver Libro Online</a>
+
+<p>Por último, puede acceder al libro "Fundamentals of Data Visualization" de Claus Wilke en el siguiente enlace:</p>
+<a href="https://clauswilke.com/dataviz/" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Ver Libro Online</a>
+
+<h4>Presentación y Datos Utilizados</h4>
+<p>La presentación utilizada en clase y el conjunto de datos <code>spotify_top50.csv</code> están disponibles para descargar desde el siguiente enlace:</p>
+<a href="https://share.aprendetidyverse.com/share/clase_3" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Descargar Presentación y Datos</a>
+
+
+</div>
