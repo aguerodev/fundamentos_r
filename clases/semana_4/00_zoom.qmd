@@ -21,5 +21,5 @@ affiliation: ""
 <div style="margin-top: 20px;">
 <h3>Grabación de la Clase</h3>
 <p>La grabación de la clase estará disponible aquí 24 horas después de que termine la sesión.</p>
-<a href=https://us06web.zoom.us/rec/share/lncrnkAcdwXmJIPGb9j9S30gxyjl6wR7k97mfrwbxV2_JdLFjNUbrfL-tJBjw0-3.9wK3G-Cr4MV2Q2z-" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Grabación de la clase</a>
+<a href="https://bit.ly/3yFMNac" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Grabación de la clase</a>
 </div>

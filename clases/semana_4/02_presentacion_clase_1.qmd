@@ -23,7 +23,7 @@ affiliation: ""
 
 <h4>Presentación y Datos Utilizados</h4>
 <p>La presentación utilizada en clase y el conjunto de datos <code>spotify_top50.csv</code> están disponibles para descargar desde el siguiente enlace:</p>
-<a href="https://share.aprendetidyverse.com/s/clase_3" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Descargar Presentación y Datos</a>
+<a href="https://share.aprendetidyverse.com/share/clase_04" style="background-color: #FF5F00; color: white; padding: 10px 20px; border: none; border-radius: 0px; text-decoration: none; font-size: 16px; font-weight: bold; display: inline-block; cursor: pointer; transition: background-color 0.3s ease;">Descargar Presentación y Datos</a>
 
 
 </div>
